@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <!-- chemin du fichier maison.xml pour l'exo 3 -->
+	<entry key="xmlHomePath">ressources/maisons.xml</entry>
+	<!-- chemin du fichier xml pour l'exo 4 -->
+	<entry key="xmlTranspolePath">ressources/Exercice4.xml</entry>
+</properties>
+

@@ -1,0 +1,17 @@
+/* Type d'affichage */
+lettre, en-tete, expediteur, 
+destinataire , objet , signature {display:block}
+salutation , para {display:inline}
+/* Mise en forme */
+objet:hover {text-decoration:underline}
+destinataire, expediteur {font-weight:bold}
+
+/* Contenu additionnel */
+lettre:before {content:"----------"}
+en-tete:before {content:"Le : " attr(date)}
+expediteur:before {content:"de : " ; font-weight:normal}
+destinataire:before {content:"à : " ; font-weight:normal}
+objet:before {content:"A propos de : "}
+salutation:after {content:", "}
+para:before {content:" "}
+lettre:after {content:"----------"}

@@ -1,0 +1,2043 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clubs>
+   <club>
+      <nom>LOSC Lille Metropole</nom>
+      <ville>Lille</ville>
+      <rencontres>
+         <domicile>
+            <rencontre>
+               <clubInvité>MHSC</clubInvité>
+               <score>0 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OM</clubInvité>
+               <score>3 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>FCSM</clubInvité>
+               <score>2 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>FCL</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SRFC</clubInvité>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OL</clubInvité>
+               <score>3 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ETGFC</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SB</clubInvité>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>DFCO</clubInvité>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OGCN</clubInvité>
+               <score>4 4</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ASSE</clubInvité>
+               <score>3 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>GB</clubInvité>
+               <score>4 5</score>
+            </rencontre>
+         </domicile>
+         <exterieur>
+            <rencontre>
+               <clubReceveur>ASNL</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SMC</clubReceveur>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ASSE</clubReceveur>
+               <score>1 3</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>GB</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>AJA</clubReceveur>
+               <score>1 3</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>VAFC</clubReceveur>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>TFC</clubReceveur>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ACA</clubReceveur>
+               <score>2 3</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>PSG</clubReceveur>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OM</clubReceveur>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>FCSM</clubReceveur>
+               <score/>
+            </rencontre>
+         </exterieur>
+      </rencontres>
+   </club>
+   <club>
+      <nom>Stade Rennais FC</nom>
+      <ville>Rennes</ville>
+      <rencontres>
+         <domicile>
+            <rencontre>
+               <clubInvité>PSG</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SMC</clubInvité>
+               <score>3 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ASNL</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ASSE</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>FCL</clubInvité>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>VAFC</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ETGFC</clubInvité>
+               <score>3 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SB</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>GB</clubInvité>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OM</clubInvité>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>FCSM</clubInvité>
+               <score>1 0</score>
+            </rencontre>
+         </domicile>
+         <exterieur>
+            <rencontre>
+               <clubReceveur>DFCO</clubReceveur>
+               <score>1 5</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>MHSC</clubReceveur>
+               <score>4 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OM</clubReceveur>
+               <score>0 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>FCSM</clubReceveur>
+               <score>2 6</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>LOSC</clubReceveur>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>AJA</clubReceveur>
+               <score>0 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>TFC</clubReceveur>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OL</clubReceveur>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OGCN</clubReceveur>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ACA</clubReceveur>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SMC</clubReceveur>
+               <score>0 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ASNL</clubReceveur>
+               <score>0 0</score>
+            </rencontre>
+         </exterieur>
+      </rencontres>
+   </club>
+   <club>
+      <nom>Olympique Lyonnais</nom>
+      <ville>Lyon</ville>
+      <rencontres>
+         <domicile>
+            <rencontre>
+               <clubInvité>ACA</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>MHSC</clubInvité>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OM</clubInvité>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>GB</clubInvité>
+               <score>3 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ASNL</clubInvité>
+               <score>3 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ASSE</clubInvité>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SRFC</clubInvité>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>TFC</clubInvité>
+               <score>3 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ETGFC</clubInvité>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>DFCO</clubInvité>
+               <score>3 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SMC</clubInvité>
+               <score>1 2</score>
+            </rencontre>
+         </domicile>
+         <exterieur>
+            <rencontre>
+               <clubReceveur>OGCN</clubReceveur>
+               <score>1 3</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SB</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>DFCO</clubReceveur>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SMC</clubReceveur>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>PSG</clubReceveur>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>LOSC</clubReceveur>
+               <score>3 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>FCSM</clubReceveur>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>AJA</clubReceveur>
+               <score>0 3</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>FCL</clubReceveur>
+               <score>0 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>VAFC</clubReceveur>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>MHSC</clubReceveur>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OM</clubReceveur>
+               <score>2 2</score>
+            </rencontre>
+         </exterieur>
+      </rencontres>
+   </club>
+   <club>
+      <nom>Olympique de Marseille</nom>
+      <ville>Marseille</ville>
+      <rencontres>
+         <domicile>
+            <rencontre>
+               <clubInvité>FCSM</clubInvité>
+               <score>2 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ASSE</clubInvité>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SRFC</clubInvité>
+               <score>0 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ETGFC</clubInvité>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SB</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ACA</clubInvité>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OGCN</clubInvité>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>PSG</clubInvité>
+               <score>3 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>GB</clubInvité>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>FCL</clubInvité>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>LOSC</clubInvité>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OL</clubInvité>
+               <score>2 2</score>
+            </rencontre>
+         </domicile>
+         <exterieur>
+            <rencontre>
+               <clubReceveur>AJA</clubReceveur>
+               <score>2 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>LOSC</clubReceveur>
+               <score>3 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OL</clubReceveur>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>VAFC</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>TFC</clubReceveur>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>DFCO</clubReceveur>
+               <score>2 3</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>MHSC</clubReceveur>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SMC</clubReceveur>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ASNL</clubReceveur>
+               <score>1 3</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SRFC</clubReceveur>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ETGFC</clubReceveur>
+               <score/>
+            </rencontre>
+         </exterieur>
+      </rencontres>
+   </club>
+   <club>
+      <nom>Paris Saint-Germain</nom>
+      <ville>Paris</ville>
+      <rencontres>
+         <domicile>
+            <rencontre>
+               <clubInvité>FCL</clubInvité>
+               <score>0 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>VAFC</clubInvité>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SB</clubInvité>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OGCN</clubInvité>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OL</clubInvité>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>DFCO</clubInvité>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SMC</clubInvité>
+               <score>4 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ASNL</clubInvité>
+               <score>0 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>AJA</clubInvité>
+               <score>3 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>LOSC</clubInvité>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>TFC</clubInvité>
+               <score>3 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ETGFC</clubInvité>
+               <score>3 1</score>
+            </rencontre>
+         </domicile>
+         <exterieur>
+            <rencontre>
+               <clubReceveur>SRFC</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>TFC</clubReceveur>
+               <score>1 3</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ETGFC</clubReceveur>
+               <score>2 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>MHSC</clubReceveur>
+               <score>0 3</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ACA</clubReceveur>
+               <score>1 3</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>GB</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OM</clubReceveur>
+               <score>3 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>FCSM</clubReceveur>
+               <score>0 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ASSE</clubReceveur>
+               <score>0 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SB</clubReceveur>
+               <score>0 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OGCN</clubReceveur>
+               <score>0 0</score>
+            </rencontre>
+         </exterieur>
+      </rencontres>
+   </club>
+   <club>
+      <nom>Montpellier Herault SC</nom>
+      <ville>Montpellier</ville>
+      <rencontres>
+         <domicile>
+            <rencontre>
+               <clubInvité>AJA</clubInvité>
+               <score>3 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SRFC</clubInvité>
+               <score>4 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OGCN</clubInvité>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>PSG</clubInvité>
+               <score>0 3</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>DFCO</clubInvité>
+               <score>5 3</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ASNL</clubInvité>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OM</clubInvité>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>FCL</clubInvité>
+               <score>4 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>TFC</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OL</clubInvité>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SB</clubInvité>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ACA</clubInvité>
+               <score>3 0</score>
+            </rencontre>
+         </domicile>
+         <exterieur>
+            <rencontre>
+               <clubReceveur>LOSC</clubReceveur>
+               <score>0 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OL</clubReceveur>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SB</clubReceveur>
+               <score>2 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ACA</clubReceveur>
+               <score>1 3</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>GB</clubReceveur>
+               <score>2 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SMC</clubReceveur>
+               <score>1 3</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ASSE</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>FCSM</clubReceveur>
+               <score>1 3</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>VAFC</clubReceveur>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ETGFC</clubReceveur>
+               <score>4 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OGCN</clubReceveur>
+               <score>0 1</score>
+            </rencontre>
+         </exterieur>
+      </rencontres>
+   </club>
+   <club>
+      <nom>AS Saint-Etienne</nom>
+      <ville>Saint Etienne</ville>
+      <rencontres>
+         <domicile>
+            <rencontre>
+               <clubInvité>ASNL</clubInvité>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>LOSC</clubInvité>
+               <score>1 3</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>TFC</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>AJA</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>VAFC</clubInvité>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>MHSC</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ACA</clubInvité>
+               <score>3 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SMC</clubInvité>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>PSG</clubInvité>
+               <score>0 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>FCSM</clubInvité>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>FCL</clubInvité>
+               <score/>
+            </rencontre>
+         </domicile>
+         <exterieur>
+            <rencontre>
+               <clubReceveur>GB</clubReceveur>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OM</clubReceveur>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>FCSM</clubReceveur>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>FCL</clubReceveur>
+               <score>3 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SRFC</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ETGFC</clubReceveur>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OL</clubReceveur>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OGCN</clubReceveur>
+               <score>0 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SB</clubReceveur>
+               <score>2 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>DFCO</clubReceveur>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>LOSC</clubReceveur>
+               <score>3 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>TFC</clubReceveur>
+               <score>0 1</score>
+            </rencontre>
+         </exterieur>
+      </rencontres>
+   </club>
+   <club>
+      <nom>Girondins de Bordeaux</nom>
+      <ville>Bordeaux</ville>
+      <rencontres>
+         <domicile>
+            <rencontre>
+               <clubInvité>ASSE</clubInvité>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>AJA</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ETGFC</clubInvité>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>LOSC</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>MHSC</clubInvité>
+               <score>2 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SB</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>PSG</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SMC</clubInvité>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ASNL</clubInvité>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>FCSM</clubInvité>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>VAFC</clubInvité>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>TFC</clubInvité>
+               <score>2 0</score>
+            </rencontre>
+         </domicile>
+         <exterieur>
+            <rencontre>
+               <clubReceveur>FCL</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>VAFC</clubReceveur>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>TFC</clubReceveur>
+               <score>3 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OL</clubReceveur>
+               <score>3 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OGCN</clubReceveur>
+               <score>3 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ACA</clubReceveur>
+               <score>0 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>DFCO</clubReceveur>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OM</clubReceveur>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SRFC</clubReceveur>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ETGFC</clubReceveur>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>LOSC</clubReceveur>
+               <score>4 5</score>
+            </rencontre>
+         </exterieur>
+      </rencontres>
+   </club>
+   <club>
+      <nom>FC Lorient</nom>
+      <ville>Lorient</ville>
+      <rencontres>
+         <domicile>
+            <rencontre>
+               <clubInvité>GB</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ASNL</clubInvité>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ASSE</clubInvité>
+               <score>3 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>AJA</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>VAFC</clubInvité>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>TFC</clubInvité>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ACA</clubInvité>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OGCN</clubInvité>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OL</clubInvité>
+               <score>0 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SMC</clubInvité>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>FCSM</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+         </domicile>
+         <exterieur>
+            <rencontre>
+               <clubReceveur>PSG</clubReceveur>
+               <score>0 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>DFCO</clubReceveur>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>FCSM</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>LOSC</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SRFC</clubReceveur>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SB</clubReceveur>
+               <score>3 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ETGFC</clubReceveur>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>MHSC</clubReceveur>
+               <score>4 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OM</clubReceveur>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ASNL</clubReceveur>
+               <score>2 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ASSE</clubReceveur>
+               <score/>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>AJA</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+         </exterieur>
+      </rencontres>
+   </club>
+   <club>
+      <nom>AC Ajaccio</nom>
+      <ville>Ajaccio</ville>
+      <rencontres>
+         <domicile>
+            <rencontre>
+               <clubInvité>TFC</clubInvité>
+               <score>0 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ETGFC</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>VAFC</clubInvité>
+               <score>3 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>MHSC</clubInvité>
+               <score>1 3</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>PSG</clubInvité>
+               <score>1 3</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>GB</clubInvité>
+               <score>0 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SMC</clubInvité>
+               <score>2 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>LOSC</clubInvité>
+               <score>2 3</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SRFC</clubInvité>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>AJA</clubInvité>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OGCN</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+         </domicile>
+         <exterieur>
+            <rencontre>
+               <clubReceveur>OL</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>AJA</clubReceveur>
+               <score>4 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OGCN</clubReceveur>
+               <score>3 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SB</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>DFCO</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OM</clubReceveur>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>FCL</clubReceveur>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ASSE</clubReceveur>
+               <score>3 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ASNL</clubReceveur>
+               <score>2 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>FCSM</clubReceveur>
+               <score>0 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>VAFC</clubReceveur>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>MHSC</clubReceveur>
+               <score>3 0</score>
+            </rencontre>
+         </exterieur>
+      </rencontres>
+   </club>
+   <club>
+      <nom>FC de Sochaux Montbéliard</nom>
+      <ville>Sochaux</ville>
+      <rencontres>
+         <domicile>
+            <rencontre>
+               <clubInvité>SMC</clubInvité>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ASSE</clubInvité>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>FCL</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SRFC</clubInvité>
+               <score>2 6</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>TFC</clubInvité>
+               <score>3 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ETGFC</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OL</clubInvité>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>MHSC</clubInvité>
+               <score>1 3</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>PSG</clubInvité>
+               <score>0 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ACA</clubInvité>
+               <score>0 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>LOSC</clubInvité>
+               <score/>
+            </rencontre>
+         </domicile>
+         <exterieur>
+            <rencontre>
+               <clubReceveur>OM</clubReceveur>
+               <score>2 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ASNL</clubReceveur>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>LOSC</clubReceveur>
+               <score>2 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>AJA</clubReceveur>
+               <score>4 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>VAFC</clubReceveur>
+               <score>3 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OGCN</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SB</clubReceveur>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>DFCO</clubReceveur>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>GB</clubReceveur>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ASSE</clubReceveur>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>FCL</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SRFC</clubReceveur>
+               <score>1 0</score>
+            </rencontre>
+         </exterieur>
+      </rencontres>
+   </club>
+   <club>
+      <nom>Stade Brestois 29</nom>
+      <ville>Brest</ville>
+      <rencontres>
+         <domicile>
+            <rencontre>
+               <clubInvité>ETGFC</clubInvité>
+               <score>2 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OL</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>MHSC</clubInvité>
+               <score>2 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ACA</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SMC</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>FCL</clubInvité>
+               <score>3 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>FCSM</clubInvité>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ASSE</clubInvité>
+               <score>2 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>AJA</clubInvité>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OGCN</clubInvité>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>PSG</clubInvité>
+               <score>0 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>DFCO</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+         </domicile>
+         <exterieur>
+            <rencontre>
+               <clubReceveur>VAFC</clubReceveur>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OGCN</clubReceveur>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>PSG</clubReceveur>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>DFCO</clubReceveur>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OM</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>GB</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ASNL</clubReceveur>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>LOSC</clubReceveur>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SRFC</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>TFC</clubReceveur>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>MHSC</clubReceveur>
+               <score>1 0</score>
+            </rencontre>
+         </exterieur>
+      </rencontres>
+   </club>
+   <club>
+      <nom>OGC Nice</nom>
+      <ville>Nice</ville>
+      <rencontres>
+         <domicile>
+            <rencontre>
+               <clubInvité>OL</clubInvité>
+               <score>1 3</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>TFC</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SB</clubInvité>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ACA</clubInvité>
+               <score>3 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>DFCO</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>GB</clubInvité>
+               <score>3 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>FCSM</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ASSE</clubInvité>
+               <score>0 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SRFC</clubInvité>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>VAFC</clubInvité>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>MHSC</clubInvité>
+               <score>0 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>PSG</clubInvité>
+               <score>0 0</score>
+            </rencontre>
+         </domicile>
+         <exterieur>
+            <rencontre>
+               <clubReceveur>ETGFC</clubReceveur>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>MHSC</clubReceveur>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>PSG</clubReceveur>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SMC</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ASNL</clubReceveur>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OM</clubReceveur>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>FCL</clubReceveur>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>AJA</clubReceveur>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>LOSC</clubReceveur>
+               <score>4 4</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SB</clubReceveur>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ACA</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+         </exterieur>
+      </rencontres>
+   </club>
+   <club>
+      <nom>Valenciennes FC</nom>
+      <ville>Valenciennes</ville>
+      <rencontres>
+         <domicile>
+            <rencontre>
+               <clubInvité>SB</clubInvité>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>GB</clubInvité>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>DFCO</clubInvité>
+               <score>4 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OM</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>FCSM</clubInvité>
+               <score>3 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>LOSC</clubInvité>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>AJA</clubInvité>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>MHSC</clubInvité>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OL</clubInvité>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ACA</clubInvité>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ASNL</clubInvité>
+               <score>1 0</score>
+            </rencontre>
+         </domicile>
+         <exterieur>
+            <rencontre>
+               <clubReceveur>SMC</clubReceveur>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>PSG</clubReceveur>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ACA</clubReceveur>
+               <score>3 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ASNL</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>FCL</clubReceveur>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ASSE</clubReceveur>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SRFC</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>TFC</clubReceveur>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ETGFC</clubReceveur>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OGCN</clubReceveur>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>GB</clubReceveur>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>DFCO</clubReceveur>
+               <score>1 2</score>
+            </rencontre>
+         </exterieur>
+      </rencontres>
+   </club>
+   <club>
+      <nom>SM Caen</nom>
+      <ville>Caen</ville>
+      <rencontres>
+         <domicile>
+            <rencontre>
+               <clubInvité>VAFC</clubInvité>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>LOSC</clubInvité>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>TFC</clubInvité>
+               <score>0 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OL</clubInvité>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OGCN</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>MHSC</clubInvité>
+               <score>1 3</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>DFCO</clubInvité>
+               <score>3 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OM</clubInvité>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ASNL</clubInvité>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SRFC</clubInvité>
+               <score>0 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>AJA</clubInvité>
+               <score/>
+            </rencontre>
+         </domicile>
+         <exterieur>
+            <rencontre>
+               <clubReceveur>FCSM</clubReceveur>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SRFC</clubReceveur>
+               <score>3 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>AJA</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ETGFC</clubReceveur>
+               <score>2 4</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SB</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>PSG</clubReceveur>
+               <score>4 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ACA</clubReceveur>
+               <score>2 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>GB</clubReceveur>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ASSE</clubReceveur>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>FCL</clubReceveur>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>TFC</clubReceveur>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OL</clubReceveur>
+               <score>1 2</score>
+            </rencontre>
+         </exterieur>
+      </rencontres>
+   </club>
+   <club>
+      <nom>AS Nancy Lorraine</nom>
+      <ville>Nancy</ville>
+      <rencontres>
+         <domicile>
+            <rencontre>
+               <clubInvité>LOSC</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>FCSM</clubInvité>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>AJA</clubInvité>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>VAFC</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ETGFC</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OGCN</clubInvité>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SB</clubInvité>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>DFCO</clubInvité>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ACA</clubInvité>
+               <score>2 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OM</clubInvité>
+               <score>1 3</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>FCL</clubInvité>
+               <score>2 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SRFC</clubInvité>
+               <score>0 0</score>
+            </rencontre>
+         </domicile>
+         <exterieur>
+            <rencontre>
+               <clubReceveur>ASSE</clubReceveur>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>FCL</clubReceveur>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SRFC</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>TFC</clubReceveur>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OL</clubReceveur>
+               <score>3 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>MHSC</clubReceveur>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>PSG</clubReceveur>
+               <score>0 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>GB</clubReceveur>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SMC</clubReceveur>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>AJA</clubReceveur>
+               <score>1 3</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>VAFC</clubReceveur>
+               <score>1 0</score>
+            </rencontre>
+         </exterieur>
+      </rencontres>
+   </club>
+   <club>
+      <nom>Evian TG FC</nom>
+      <ville>Evian</ville>
+      <rencontres>
+         <domicile>
+            <rencontre>
+               <clubInvité>OGCN</clubInvité>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>DFCO</clubInvité>
+               <score>0 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>PSG</clubInvité>
+               <score>2 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SMC</clubInvité>
+               <score>2 4</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ASSE</clubInvité>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>AJA</clubInvité>
+               <score>3 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>FCL</clubInvité>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>VAFC</clubInvité>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>MHSC</clubInvité>
+               <score>4 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>GB</clubInvité>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OM</clubInvité>
+               <score/>
+            </rencontre>
+         </domicile>
+         <exterieur>
+            <rencontre>
+               <clubReceveur>SB</clubReceveur>
+               <score>2 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ACA</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>GB</clubReceveur>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OM</clubReceveur>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ASNL</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>FCSM</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>LOSC</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SRFC</clubReceveur>
+               <score>3 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>TFC</clubReceveur>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OL</clubReceveur>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>DFCO</clubReceveur>
+               <score>3 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>PSG</clubReceveur>
+               <score>3 1</score>
+            </rencontre>
+         </exterieur>
+      </rencontres>
+   </club>
+   <club>
+      <nom>AJ Auxerre</nom>
+      <ville>Auxerre</ville>
+      <rencontres>
+         <domicile>
+            <rencontre>
+               <clubInvité>OM</clubInvité>
+               <score>2 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ACA</clubInvité>
+               <score>4 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SMC</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>FCSM</clubInvité>
+               <score>4 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>LOSC</clubInvité>
+               <score>1 3</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SRFC</clubInvité>
+               <score>0 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>TFC</clubInvité>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OL</clubInvité>
+               <score>0 3</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OGCN</clubInvité>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>DFCO</clubInvité>
+               <score>2 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ASNL</clubInvité>
+               <score>1 3</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>FCL</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+         </domicile>
+         <exterieur>
+            <rencontre>
+               <clubReceveur>MHSC</clubReceveur>
+               <score>3 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>GB</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ASNL</clubReceveur>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>FCL</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ASSE</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ETGFC</clubReceveur>
+               <score>3 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>VAFC</clubReceveur>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>PSG</clubReceveur>
+               <score>3 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SB</clubReceveur>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ACA</clubReceveur>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SMC</clubReceveur>
+               <score/>
+            </rencontre>
+         </exterieur>
+      </rencontres>
+   </club>
+   <club>
+      <nom>Toulouse FC</nom>
+      <ville>Toulouse</ville>
+      <rencontres>
+         <domicile>
+            <rencontre>
+               <clubInvité>DFCO</clubInvité>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>PSG</clubInvité>
+               <score>1 3</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>GB</clubInvité>
+               <score>3 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ASNL</clubInvité>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OM</clubInvité>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SRFC</clubInvité>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>LOSC</clubInvité>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>VAFC</clubInvité>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ETGFC</clubInvité>
+               <score>2 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SB</clubInvité>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SMC</clubInvité>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ASSE</clubInvité>
+               <score>0 1</score>
+            </rencontre>
+         </domicile>
+         <exterieur>
+            <rencontre>
+               <clubReceveur>ACA</clubReceveur>
+               <score>0 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OGCN</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SMC</clubReceveur>
+               <score>0 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ASSE</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>FCSM</clubReceveur>
+               <score>3 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>FCL</clubReceveur>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>AJA</clubReceveur>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OL</clubReceveur>
+               <score>3 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>MHSC</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>PSG</clubReceveur>
+               <score>3 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>GB</clubReceveur>
+               <score>2 0</score>
+            </rencontre>
+         </exterieur>
+      </rencontres>
+   </club>
+   <club>
+      <nom>Dijon FCO</nom>
+      <ville>Dijon</ville>
+      <rencontres>
+         <domicile>
+            <rencontre>
+               <clubInvité>SRFC</clubInvité>
+               <score>1 5</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>FCL</clubInvité>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OL</clubInvité>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>SB</clubInvité>
+               <score>1 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ACA</clubInvité>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>OM</clubInvité>
+               <score>2 3</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>GB</clubInvité>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>FCSM</clubInvité>
+               <score>0 0</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ASSE</clubInvité>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>ETGFC</clubInvité>
+               <score>3 1</score>
+            </rencontre>
+            <rencontre>
+               <clubInvité>VAFC</clubInvité>
+               <score>1 2</score>
+            </rencontre>
+         </domicile>
+         <exterieur>
+            <rencontre>
+               <clubReceveur>TFC</clubReceveur>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ETGFC</clubReceveur>
+               <score>0 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>VAFC</clubReceveur>
+               <score>4 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OGCN</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>MHSC</clubReceveur>
+               <score>5 3</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>PSG</clubReceveur>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SMC</clubReceveur>
+               <score>3 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>ASNL</clubReceveur>
+               <score>1 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>LOSC</clubReceveur>
+               <score>2 0</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>AJA</clubReceveur>
+               <score>2 2</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>OL</clubReceveur>
+               <score>3 1</score>
+            </rencontre>
+            <rencontre>
+               <clubReceveur>SB</clubReceveur>
+               <score>1 1</score>
+            </rencontre>
+         </exterieur>
+      </rencontres>
+   </club>
+</clubs>

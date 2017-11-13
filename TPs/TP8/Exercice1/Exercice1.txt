@@ -1,0 +1,13 @@
+- query_bib1.xq
+
+recupere tous les livres dans la bibliotheque avec l'editeur Addison-Wesley et dont la date est superieure à 1991
+
+- query_bib2.xq
+
+pour chaque livre, on affiche leur titre et leur autheur.
+
+- query_bib3.xq
+
+
+
+

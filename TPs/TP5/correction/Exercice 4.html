@@ -1,0 +1,32 @@
+<!DOCTYPE doctype PUBLIC "-//w3c//dtd html 4.01 Transitional">
+<!-- saved from url=(0064)http://www.fil.univ-lille1.fr/~yroos/pxml/pxml-5/exercice-4.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+  <title>Exercice 4</title>
+</head>
+<body bgcolor="white" lang="FR" link="#003399" vlink="#003399" style="" alink="#FF8C00">
+
+
+  <table border="1" width="100%" cellpadding="2" cellspacing="2" style="font-family: helvetica,arial,sans-serif; font-weight: bold; color: rgb(255, 255, 255);" summary="éléments de correction">
+    <tbody><tr>
+      <td style="background-color: rgb(255, 140, 0);">
+Eléments de correction      </td>
+    </tr>
+  </tbody></table>
+  <br>
+  La difficulté n'est pas dans la définition des éléments type <tt>livret</tt> ou autres (il y a plétore
+  de types à réutiliser pour y arriver) mais dans la façon d'accéder aux types proposés par l'INSEE. On peut
+  distinguer 2 possibilités :
+  <br>
+  <ul>
+    <li>Un schéma définissant le même espace de noms <tt>"http://xml.insee.fr/schema"</tt> pour lequel on peut
+    utiliser des <tt>include</tt>. Voir le fichier 
+    <a href="http://www.fil.univ-lille1.fr/~yroos/pxml/pxml-5/livret-1.xsd">livret-1.xsd</a></li><br>
+    <li>Un schéma définissant un autre espace de noms afin
+    d'utiliser un <tt>import</tt>. Comme on ne peut pas faire plusieurs <tt>import</tt> différents pour un même
+    espace de noms, cela nécessite de passer par un schéma intermédiaire 
+    (<a href="http://www.fil.univ-lille1.fr/~yroos/pxml/pxml-5/insee.xsd">insee.xsd</a>) pour définir le schéma principal 
+    <a href="http://www.fil.univ-lille1.fr/~yroos/pxml/pxml-5/livret-2.xsd">livret-2.xsd</a></li>
+  </ul>
+  
+
+</body></html>

@@ -1,0 +1,5 @@
+<!ENTITY % entite1 "#PCDATA|elt.enfant" >
+<!ENTITY entite2 "<elt.enfant>entite</elt.enfant>" >
+<!ENTITY Eacute "&#201;" >
+<!ELEMENT elt.racine (%entite1;)* >
+<!ELEMENT elt.enfant (#PCDATA)>

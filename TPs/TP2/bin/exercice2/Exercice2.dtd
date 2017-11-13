@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT bibliographie (livre*,article*) >
+
+<!-- LIVRE -->
+<!ELEMENT livre (titre, auteur+, tome+, informationLivre) >
+<!ELEMENT tome EMPTY >
+<!ATTLIST tome nb-pages CDATA #REQUIRED 
+               soustitre CDATA #IMPLIED
+               >
+<!ELEMENT informationLivre (editeur, lieuEdition, lieuImpression)> 
+<!ATTLIST informationLivre isbn ID #REQUIRED >
+<!ELEMENT editeur (#PCDATA) >
+<!ELEMENT lieuEdition (#PCDATA) >
+<!ELEMENT lieuImpression (#PCDATA) >
+
+<!-- ARTICLE -->
+<!ELEMENT article (titre, auteur+, reference, avisPersonnel?) >
+<!ELEMENT reference (journal)+ >
+<!ELEMENT journal (nom-journal, anneePublication) >
+<!ELEMENT nom-journal EMPTY >
+<!ATTLIST nom-journal nom-journal CDATA "L'Epique"
+                     numeroPage CDATA #REQUIRED
+                     numeroJournal CDATA #REQUIRED >
+<!ELEMENT anneePublication EMPTY >
+<!ATTLIST anneePublication annee (2009|2010|2011|avant-2009|inconnue)  "inconnue" >
+<!ELEMENT nomJournal (#PCDATA) >           
+<!ELEMENT avisPersonnel (#PCDATA) >
+
+<!-- COMMUN -->
+<!ELEMENT titre (#PCDATA) >
+<!ATTLIST titre soustitre CDATA #IMPLIED>
+<!ELEMENT auteur (#PCDATA) >

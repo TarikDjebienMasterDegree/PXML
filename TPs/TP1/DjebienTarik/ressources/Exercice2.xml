@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- author : Djebien Tarik -->
+<!-- PXML.TP1.Exercice2 created with EditiX at Fri Jan 06 15:10:04 CET 2012-->
+
+<lesBouteilles>
+	<bouteille id="1">
+		<marque>Cristaline</marque>
+		<quantite unite="cl">150</quantite>
+		<contenance>
+			<lesIons>
+				<ion name="calcium" unite="mg">71</ion>
+				<ion name="magnesium" unite="mg">20</ion>
+				<ion name="nitrates" unite="mg">1</ion>
+			</lesIons>
+			<particules>
+				<particule name="fer"/>
+			</particules>
+		</contenance>
+		<source>St-Cyrla Source, dans le département du Loiret.</source>
+		<code_barre>3274080005003</code_barre>
+		<ph>7,45</ph>
+	</bouteille>
+	<bouteille id="2">
+		<marque>Cristaline</marque>
+		<quantite unite="cl">50</quantite>
+		<contenance>
+			<lesIons>
+				<ion name="calcium" unite="mg">98</ion>
+				<ion name="magnesium" unite="mg">4</ion>
+				<ion name="chlorure" unite="mg">3,6</ion>
+				<ion name="nitrates" unite="mg">2</ion>
+			</lesIons>
+			<particules/>
+		</contenance>
+		<source>Source d’Aurèle dans les Alpes Maritimes.</source>
+		<code_barre>3268840001008</code_barre>
+		<ph>7,4</ph>
+	</bouteille>
+	<bouteille id="3">
+		<marque>Volvic</marque>
+		<quantite unite="cl">150</quantite>
+		<contenance>
+			<lesIons>
+				<ion name="calcium" unite="mg">11,5</ion>
+				<ion name="magnesium" unite="mg">8,0</ion>
+				<ion name="chlorure" unite="mg">13,5</ion>
+				<ion name="nitrates" unite="mg">6,3</ion>
+			</lesIons>
+			<particules>
+				<particule name="silice"/>
+			</particules>
+		</contenance>
+		<source>Volvic Source</source>
+		<code_barre>3057640117008</code_barre>
+		<ph>7</ph>
+	</bouteille>
+</lesBouteilles>

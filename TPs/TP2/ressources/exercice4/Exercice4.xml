@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE elt.racine SYSTEM "Exercice4.dtd" >
+<elt.racine>
+  Du texte
+  <elt.enfant>un enfant</elt.enfant>
+  Autre Texte
+  &entite2;
+  Un accent aigu : &Eacute;
+</elt.racine>

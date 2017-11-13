@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xsd:schema  
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+	xmlns="http://xml.insee.fr/schema" 
+	xmlns:pxml="http://pxml.insee.fr"
+	targetNamespace="http://xml.insee.fr/schema"
+>
+	<xsd:include schemaLocation="http://xml.insee.fr/schema/insee-commun.xsd"/>
+	<xsd:include schemaLocation="http://xml.insee.fr/schema/individu.xsd"/>
+
+<!-- définition des éléments sans devoir préfixer du fait de l'espace de noms par défaut -->
+
+</xsd:schema>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<journée xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" num="18">
+      <date>2011-12-17</date>
+      <rencontre>
+         <clubReceveur>SB</clubReceveur>
+         <clubInvité>AJA</clubInvité>
+         <score>1 0</score>
+      </rencontre>
+      <rencontre>
+         <clubReceveur>SMC</clubReceveur>
+         <clubInvité>ASNL</clubInvité>
+         <score>1 2</score>
+      </rencontre>
+      <rencontre>
+         <clubReceveur>DFCO</clubReceveur>
+         <clubInvité>ASSE</clubInvité>
+         <score>1 2</score>
+      </rencontre>
+      <rencontre>
+         <clubReceveur>OM</clubReceveur>
+         <clubInvité>FCL</clubInvité>
+         <score>2 1</score>
+      </rencontre>
+      <rencontre>
+         <clubReceveur>MHSC</clubReceveur>
+         <clubInvité>TFC</clubInvité>
+         <score>1 1</score>
+      </rencontre>
+      <rencontre>
+         <clubReceveur>OGCN</clubReceveur>
+         <clubInvité>VAFC</clubInvité>
+         <score>2 0</score>
+      </rencontre>
+      <rencontre>
+         <clubReceveur>OL</clubReceveur>
+         <clubInvité>ETGFC</clubInvité>
+         <score>2 1</score>
+      </rencontre>
+      <rencontre>
+         <clubReceveur>ACA</clubReceveur>
+         <clubInvité>SRFC</clubInvité>
+         <score>1 0</score>
+      </rencontre>
+      <rencontre>
+         <clubReceveur>GB</clubReceveur>
+         <clubInvité>FCSM</clubInvité>
+         <score>1 0</score>
+      </rencontre>
+      <rencontre>
+         <clubReceveur>PSG</clubReceveur>
+         <clubInvité>LOSC</clubInvité>
+         <score>0 0</score>
+      </rencontre>
+   </journée>

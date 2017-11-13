@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="Exercice4.css" type"text/css"?>
+<!-- author : Djebien Tarik -->
+<!-- PXML.TP1.Exercice4 created with EditiX at Thu Jan 12 19:14:13 CET 2012 -->
+
+<lesItineraires>
+	<itineraire id="1">
+	    <!-- Une En Tete qui resume l'itineraire demandee -->
+		<enTete>
+			<source city='Seclin' place='Centre hospitalier' />
+			<destination city='Roubaix' place='Avenue Motte' />
+			<date dayInWeek='Vendredi' dayInMonth='6' month='janvier' HH='11'
+				mm='45' />
+			<mode>Métro-Tramway-Bus-Car</mode>
+			<preference>Arriver le plus rapidement</preference>
+			<vitesseMarcheAPied>Normale</vitesseMarcheAPied>
+			<tempsDeParcours HH='1' mm='32' />
+		</enTete>
+        <!-- Une situation initiale -->
+		<initialisation>
+			<depart cityRef='Seclin' placeRef='Centre hospitalier' />
+			<objectif>rejoindre à pied l’arrêt Seclin - apolda</objectif>
+			<transport>
+				<type>marche à pieds</type>
+				<duree mm='10' />
+			</transport>
+		</initialisation>
+		<!-- L'itineraire est alors decompose en taches ordonnancee a accomplir -->
+		<etapes>
+			<etape id='1'>
+				<predirective>
+					<heureDepart HH='11' mm='51' />
+					<objectif>Prendre le Bus ligne 229 en direction de Lille - CHR B
+						Calmette
+					</objectif>
+					<transport>
+						<type>Bus TRANSPOLE</type>
+						<duree mm='31' />
+					</transport>
+				</predirective>
+				<postdirective>
+					<heureArrivee HH='12' mm='22' />
+					<objectif>Descendre à l’arrêt Lille - CHR B Calmette</objectif>
+				</postdirective>
+				<correspondance>
+					<duree mm='4' />
+				</correspondance>
+			</etape>
+			<etape id='2'>
+				<predirective>
+					<heureDepart HH='12' mm='26' />
+					<objectif>Prendre le Métro ligne 1 en direction de Villeneuve
+						d’Ascq - 4 Cantons
+					</objectif>
+					<transport>
+						<type>Métro TRANSPOLE</type>
+						<duree mm='9' />
+					</transport>
+				</predirective>
+				<postdirective>
+					<heureArrivee HH='12' mm='35' />
+					<objectif>Descendre à l’arrêt Lille - Gare Lille Flandres
+					</objectif>
+				</postdirective>
+				<correspondance>
+					<duree mm='3' />
+				</correspondance>
+			</etape>
+			<etape id='3'>
+				<predirective>
+					<heureDepart HH='12' mm='30' />
+					<objectif>Prendre le Métro ligne 2 en direction de Tourcoing - CH
+						Dron
+					</objectif>
+					<transport>
+						<type>Métro TRANSPOLE</type>
+						<duree mm='17' />
+					</transport>
+				</predirective>
+				<postdirective>
+					<heureArrivee HH='12' mm='55' />
+					<objectif>Descendre à l’arrêt Roubaix - Epeule Montesquieu
+					</objectif>
+				</postdirective>
+				<correspondance>
+					<duree mm='9' />
+				</correspondance>
+			</etape>
+			<etape id='4'>
+				<predirective>
+					<heureDepart HH='13' mm='04' />
+					<objectif>Prendre le Bus ligne 25 en direction de Roubaix -
+						fraternité
+					</objectif>
+					<transport>
+						<type>Bus TRANSPOLE</type>
+						<duree mm='9' />
+					</transport>
+				</predirective>
+				<postdirective>
+					<heureArrivee HH='13' mm='13' />
+					<objectif>Descendre à l’arrêt Roubaix - Avenue Motte</objectif>
+				</postdirective>
+			</etape>
+		</etapes>
+	</itineraire>
+</lesItineraires>

@@ -1,0 +1,44 @@
+
+Exercice 4 :
+
+1) Le nombre de morceaux de la bibliothèque
+Très "ad-hoc" : count(/plist/dict/dict/dict)
+ou un peu moins "ad-hoc" : count(//key[text()="Location"])
+ou encore : 
+count(//key[text()="Track ID" and not(ancestor::*/preceding-sibling::key/text()="Playlists")])
+c'est à dire le nombre d'identifiants de pistes qui ne sont pas dans des playlists
+
+2) Tous les noms d'albums
+//key[text()="Album"]/following-sibling::*[1]/text()
+c'est le contenu du frère suivant (= le premier des following-sibling) des éléments key
+dont le contenu vaut "Album"
+
+3) Tous les genres :
+//key[text()="Genre"]/following-sibling::*[1]/text()
+
+4) Le nombre de morceaux de Jazz
+count(//dict[key[text()="Genre"and following-sibling::*[1]/text()="Jazz"]])
+= le nombre d'éléments key de contenu "Genre" dont le contenu du frère (qui est un élément
+string mais * suffit) vaut "Jazz"
+
+5) Tous les genres avec une seul occurrence 
+//key[text()="Genre"]/following-sibling::string[1][not(text()=following::key[text()="Genre"]/following-sibling::string[1])]/text()
+le contenu des frères string immédiats des éléments key dont le contenu est "Genre" et qui n'ont pas 
+de suivant dans l'ordre du document valant la mâme chose.
+
+6) Le nom des morceaux qui ont été écoutés au moins 1 fois
+//key[text()="Play Count"]/preceding-sibling::key[text()="Name"]/following-sibling::string[1]/text()
+le nom des morceaux qui ont un élément key de valeur "Play Count"
+
+7) Les titres des morceaux qui n'ont jamais été écoutés
+/plist/dict/dict/dict[not(key[text()="Play Count"])]/key[text()="Name"]/following-sibling::*[1]/text()
+ou
+//key[text()="Location"][not(../*/text()="Play Count")]/../key[text()="Name"]/following-sibling::*[1]/text()
+le nom des morceaux qui n'ont pas de frère de contenu "Play Count"
+
+8) Le titre du (ou des) morceaux les plus anciens de la bibliothèque
+//key[text()="Year"]/following-sibling::integer[1][not(. > //key[text()="Year"]/following-sibling::integer[1])]/../key[text()="Name"]/following-sibling::string[1]/text()
+on repère les éléments key de valeur "Year" pour lesquelles il n'existe pas de "valeur de Year" strictement supérieure
+on prend alors la valeur associée au frère key (../key) de nom "Name" 
+
+

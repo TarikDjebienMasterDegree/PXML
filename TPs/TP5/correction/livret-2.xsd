@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xsd:schema  
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+	xmlns:insee="http://xml.insee.fr/schema" 
+	xmlns:pxml="http://pxml.insee.fr"
+	targetNamespace="http://pxml.insee.fr"
+>
+	<xsd:import namespace="http://xml.insee.fr/schema" schemaLocation="insee.xsd"/>
+
+<!-- définition des éléments en préfixant les références aux types de l'insee par le préfixe
+     insee: et les références aux éléments définis ici par le préfixe pxml: -->
+
+</xsd:schema>

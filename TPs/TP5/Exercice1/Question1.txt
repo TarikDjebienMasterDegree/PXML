@@ -1,0 +1,11 @@
+Elements         Espaces de noms
+
+exercice         aucun espace de nom
+niveau           D
+garage           C
+alcove           D
+entree           A
+cuisine          E
+def              B
+figue            A
+levain           B

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bibliographie SYSTEM "Exercice1.dtd" >
+<bibliographie>
+	<livre>
+		<titre>Le tour du monde en 80 jours</titre>
+		<auteur>Verne Jules</auteur>
+		<tome nbPage="124" />
+		<informationLivre isbn="A-2001070419">
+			<editeur>SuperEditor</editeur>
+			<lieuEdition>Lille</lieuEdition>
+			<lieuImpression>Paris</lieuImpression>
+		</informationLivre>
+	</livre>
+	<livre>
+		<titre>Martine écrit en UTF8</titre>
+		<auteur>Gilbert Delahaye</auteur>
+		<tome nbPage="40" />
+		<informationLivre isbn="B-4578512454">
+			<editeur>asciiEdition</editeur>
+			<lieuEdition>Konisberg</lieuEdition>
+			<lieuImpression>M5</lieuImpression>
+		</informationLivre>
+	</livre>
+	<article>
+		<titre>Spring Aspect Object Programming</titre>
+		<auteur>Tarik</auteur>
+		<reference anneePublication="2012" numeroJournal="1"
+			numeroPage="20">
+			<nomJournal>Practice with samples</nomJournal>
+		</reference>
+		<avisPersonnel>Article présentant la programmation orienté aspect dans
+			le FrameWork JEE Spring</avisPersonnel>
+	</article>
+</bibliographie>

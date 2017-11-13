@@ -1,0 +1,96 @@
+/* 
+ * Author : Djebien Tarik 
+ * Exercice4.question2
+ */
+
+/****************** Type d'affichage **************/
+enTete > *,etape, transport, correspondance{
+	display: block;
+}
+initialisation{
+	margin-top: 20px;
+	display: block;
+}
+
+	
+
+/****************** Mise en Forme *****************/
+type{
+	text-decoration: underline;
+	text-indent : 20px; 
+    text-align : left;
+    margin-left: 10px;
+}
+
+/**************** Contenu additionnel *************/
+
+/* EN TETE */
+source:BEFORE {
+	content: "De "attr(city)" - "attr(place);
+	font-weight: bold;
+}
+destination:BEFORE {
+	content: "Vers "attr(city)" - "attr(place);
+	font-weight: bold;
+}
+date:BEFORE {
+	content: "Le "attr(dayInWeek)" "attr(dayInMonth)" "attr(month)" à "attr(HH)"h"attr(mm);
+	text-decoration: underline;
+}
+mode:BEFORE {
+	content: "Mode ";
+	text-decoration: underline;
+}
+preference:BEFORE {
+	content: "Préférence ";
+	text-decoration: underline;
+}
+vitesseMarcheAPied:BEFORE {
+	content: "Vitesse de marche à pied ";
+	text-decoration: underline;
+}
+tempsDeParcours:BEFORE {
+	content: "Temps de parcours: "attr(HH)"h "attr(mm)" min";
+	text-decoration: underline;
+}
+mode:AFTER, preference:AFTER, vitesseMarcheAPied:AFTER {
+	content: ",";
+}
+
+/* INITIALISATION */
+initialisation:BEFORE{
+	content: "-";
+}
+depart:BEFORE {
+	content: "De l'arrêt "attr(cityRef)" - "attr(placeRef)", "
+}
+initialisation transport duree:BEFORE{
+	content: "Environ "attr(mm);
+}
+
+/* TRANSPORT */
+duree:BEFORE {
+	content: attr(mm);
+	font-style: italic;
+}
+duree:AFTER {
+	content: " min";
+	font-style: italic;
+}
+
+/* ETAPES */
+etape predirective:BEFORE, etape postdirective:BEFORE, etape correspondance:BEFORE{
+	content: "- ";
+}
+etape predirective heureDepart:BEFORE {
+	content: attr(HH)"h"attr(mm);
+	font-weight: bold;
+}
+etape postdirective heureArrivee:BEFORE {
+	content: attr(HH)"h"attr(mm);
+	font-weight: bold;
+}
+correspondance duree:BEFORE {
+	content: "Correspondance "attr(mm);
+	font-style: italic;
+}

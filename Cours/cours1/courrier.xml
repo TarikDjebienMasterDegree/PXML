@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet href="courrier.css" type="text/css"?>
+<lettre>
+	<en-tete date="14 janvier 2011">
+		<expediteur>yves.roos@univ-lille1.fr</expediteur>
+		<destinataire             >jean-marie.lebbe@univ-lille1.fr</destinataire>
+		<objet>Jurys</objet>
+	</en-tete>
+	<salutation>Jean-Marie</salutation>
+	<corps>
+		<para>fixons les dates</para>
+		<para>des jurys du trimestre 2</para>
+	</corps>
+	<signature>Yves</signature>
+</lettre>

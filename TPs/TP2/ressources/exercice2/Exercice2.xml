@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bibliographie SYSTEM "Exercice2.dtd" >
+<bibliographie>
+  <livre>
+    <titre soustitre="">titre</titre>
+    <auteur>auteur</auteur>
+    <tome nb-pages="" soustitre=""/>
+    <informationLivre isbn="idvalue0">
+      <editeur>editeur</editeur>
+      <lieuEdition>lieuEdition</lieuEdition>
+      <lieuImpression>lieuImpression</lieuImpression>
+    </informationLivre>
+  </livre>
+  <article>
+    <titre soustitre="">titre</titre>
+    <auteur>auteur</auteur>
+    <reference>
+      <journal>
+        <nom-journal nom-journal="L'Epique" numeroJournal="" numeroPage=""/>
+        <anneePublication annee="inconnue"/>
+      </journal>
+    </reference>
+    <avisPersonnel>avisPersonnel</avisPersonnel>
+  </article>
+</bibliographie>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" 
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+		xsi:schemaLocation="http://www.w3.org/2001/XMLSchema http://www.w3.org/2001/XMLSchema.xsd"
+		targetNamespace="http://www.exam.pxml"
+		xmlns:exm="http://www.exam.pxml">
+	<element name="examen">
+		<complexType>
+			<sequence>
+				<element maxOccurs="unbounded" ref="exm:exercice"/>
+			</sequence>
+		</complexType>
+	</element>
+</schema>

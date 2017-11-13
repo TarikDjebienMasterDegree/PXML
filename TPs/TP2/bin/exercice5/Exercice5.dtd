@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT lesItineraires (itineraire)*>
+<!ATTLIST itineraire id ID #REQUIRED>
+<!ELEMENT itineraire (enTete, initialisation, etapes)>
+
+<!-- EN TETE -->
+<!ELEMENT enTete (source, destination, date, mode, preference, vitesseMarcheAPied, tempsDeParcours)>
+<!ELEMENT source EMPTY>
+<!ATTLIST source city CDATA #REQUIRED 
+                 place CDATA #REQUIRED>
+
+<!ELEMENT destination EMPTY>
+<!ATTLIST destination city CDATA #REQUIRED 
+                      place CDATA #REQUIRED>
+
+<!ELEMENT date EMPTY>
+<!ATTLIST date dayInWeek CDATA #IMPLIED 
+               dayInMonth CDATA #REQUIRED 
+               month CDATA #REQUIRED 
+               HH CDATA #REQUIRED
+               mm CDATA #REQUIRED>
+
+<!ELEMENT mode (#PCDATA)>
+
+<!ELEMENT preference (#PCDATA)>
+
+<!ELEMENT vitesseMarcheAPied (#PCDATA)>
+
+<!ELEMENT tempsDeParcours EMPTY>
+<!ATTLIST tempsDeParcours HH CDATA #REQUIRED
+                          mm CDATA #REQUIRED>
+
+<!-- INITIALISATION -->
+<!ELEMENT initialisation (depart, objectif, transport)>
+<!ELEMENT depart EMPTY>
+<!ATTLIST depart cityRef CDATA #REQUIRED
+                 placeRef CDATA #REQUIRED>
+<!ELEMENT objectif (#PCDATA)>
+<!ELEMENT transport (type, duree)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT duree EMPTY>
+<!ATTLIST duree mm CDATA #REQUIRED>
+
+<!-- ETAPES -->
+<!ELEMENT etapes (etape)+>
+<!ELEMENT etape (predirective, postdirective, correspondance?)>
+<!ATTLIST etape id ID #REQUIRED>
+
+<!ELEMENT predirective (heureDepart, objectif, transport)>
+<!ELEMENT heureDepart EMPTY>
+<!ATTLIST heureDepart HH CDATA #REQUIRED mm CDATA #REQUIRED>
+
+<!ELEMENT postdirective (heureArrivee, objectif)>
+<!ELEMENT heureArrivee EMPTY>
+<!ATTLIST heureArrivee HH CDATA #REQUIRED mm CDATA #REQUIRED>
+
+<!ELEMENT correspondance (duree)>

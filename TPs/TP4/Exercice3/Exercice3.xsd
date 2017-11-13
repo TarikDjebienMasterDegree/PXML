@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <!-- marque -->
+	<xs:element name="marque">
+		<xs:simpleType>
+			<xs:restriction base="xs:token">
+				<xs:enumeration value="Renault"/>
+				<xs:enumeration value="BMW"/>
+				<xs:enumeration value="Peugeot"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	<!-- modele -->
+	<xs:element name="modele">
+		<xs:simpleType>
+			<xs:restriction base="xs:token">
+				<xs:enumeration value="Clio II"/>
+				<xs:enumeration value="Clio IV"/>
+				<xs:enumeration value="Serie 5"/>
+				<xs:enumeration value="307"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	<!-- annee -->
+	<xs:element name="annee">
+		<xs:simpleType>
+			<xs:restriction base="xs:gYear"/>
+		</xs:simpleType>
+	</xs:element>
+	<!-- item -->
+	<xs:element name="item">
+		<xs:complexType mixed="false">
+			<xs:sequence>
+				<xs:element ref="marque"/>
+				<xs:element ref="modele"/>
+				<xs:element ref="annee" minOccurs="0" maxOccurs="1"/>
+			</xs:sequence>
+			<xs:attribute name="prix" type="xs:unsignedInt" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<!-- occases -->
+	<xs:element name="occases">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="item"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<!-- neufs -->
+	<xs:element name="neufs">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="item"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<!-- stock -->
+	<xs:element name="stock">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="occases"/>
+				<xs:element ref="neufs"/>
+			</xs:sequence>
+			<xs:attribute name="nom" type="xs:string" use="required"/>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

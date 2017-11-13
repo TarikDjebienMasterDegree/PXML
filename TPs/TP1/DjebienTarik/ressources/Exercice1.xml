@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- author : Djebien Tarik -->
+<!-- PXML.TP1.Exercice1 created with EditiX at Fri Jan 06 14:55:01 CET 2012 -->
+
+<lesPays>
+	<pays id="france">
+		<capitale>
+			<name>Paris</name>
+			<stats_population>
+				<annee year="2007" unite="nbre_habitants">64 102 000</annee>
+			</stats_population>
+		</capitale>
+	</pays>
+	<pays id="italie">
+		<capitale>
+			<name>Rome</name>
+			<stats_population>
+				<annee year="2006" unite="nbre_habitants">58 133 509</annee>
+			</stats_population>
+		</capitale>
+	</pays>
+	<pays id="Espagne">
+		<capitale>
+			<name>Madrid</name>
+			<stats_population>
+				<annee year="2006" unite="nbre_habitants">44 708 964</annee>
+			</stats_population>
+		</capitale>
+	</pays>
+</lesPays>

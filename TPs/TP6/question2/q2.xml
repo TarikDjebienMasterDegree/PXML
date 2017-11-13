@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clubs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+		<club id="LOSC">
+			<nom>LOSC Lille Metropole</nom>
+			<ville>Lille</ville>
+		</club>
+		<club id="SRFC">
+			<nom>Stade Rennais FC</nom>
+			<ville>Rennes</ville>
+		</club>
+		<club id="OL">
+			<nom>Olympique Lyonnais</nom>
+			<ville>Lyon</ville>
+		</club>
+		<club id="OM">
+			<nom>Olympique de Marseille</nom>
+			<ville>Marseille</ville>
+		</club>
+		<club id="PSG">
+			<nom>Paris Saint-Germain</nom>
+			<ville>Paris</ville>
+		</club>
+		<club id="MHSC">
+			<nom>Montpellier Herault SC</nom>
+			<ville>Montpellier</ville>
+		</club>
+		<club id="ASSE">
+			<nom>AS Saint-Etienne</nom>
+			<ville>Saint Etienne</ville>
+		</club>
+		<club id="GB">
+			<nom>Girondins de Bordeaux</nom>
+			<ville>Bordeaux</ville>
+		</club>
+		<club id="FCL">
+			<nom>FC Lorient</nom>
+			<ville>Lorient</ville>
+		</club>
+		<club id="ACA">
+			<nom>AC Ajaccio</nom>
+			<ville>Ajaccio</ville>
+		</club>
+		<club id="FCSM">
+			<nom>FC de Sochaux Montbéliard</nom>
+			<ville>Sochaux</ville>
+		</club>
+		<club id="SB">
+			<nom>Stade Brestois 29</nom>
+			<ville>Brest</ville>
+		</club>
+		<club id="OGCN">
+			<nom>OGC Nice</nom>
+			<ville>Nice</ville>
+		</club>
+		<club id="VAFC">
+			<nom>Valenciennes FC</nom>
+			<ville>Valenciennes</ville>
+		</club>
+		<club id="SMC">
+			<nom>SM Caen</nom>
+			<ville>Caen</ville>
+		</club>
+		<club id="ASNL">
+			<nom>AS Nancy Lorraine</nom>
+			<ville>Nancy</ville>
+		</club>
+		<club id="ETGFC">
+			<nom>Evian TG FC</nom>
+			<ville>Evian</ville>
+		</club>
+		<club id="AJA">
+			<nom>AJ Auxerre</nom>
+			<ville>Auxerre</ville>
+		</club>
+		<club id="TFC">
+			<nom>Toulouse FC</nom>
+			<ville>Toulouse</ville>
+		</club>
+		<club id="DFCO">
+			<nom>Dijon FCO</nom>
+			<ville>Dijon</ville>
+		</club>
+	</clubs>

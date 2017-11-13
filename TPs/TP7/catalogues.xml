@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<liste xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://bda/art"
+    xsi:schemaLocation="http://bda/art
+                         http://www.fil.univ-lille1.fr/~yroos/bda/bda-8/catalogues.xsd">
+   
+   <fichier uri="catalogue-1.xml"/>  
+   <fichier uri="catalogue-2.xml"/>
+   
+</liste>

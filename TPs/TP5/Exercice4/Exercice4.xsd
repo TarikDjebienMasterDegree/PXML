@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.w3.org/2001/XMLSchema 
+         http://www.w3.org/2001/XMLSchema.xsd"
+         xmlns:commun="http://xml.insee.fr/schema/commun.html"
+         xmlns:individu="http://xml.insee.fr/schema/individu.html"
+         targetNamespace="http://fil.univ-lille1.fr/miage-fa-fc/pxml/tp5/exercice4" >
+    
+    <xsd:import namespace="http://xml.insee.fr/schema/commun.html" 
+    			schemaLocation="http://xml.insee.fr/schema/insee-commun.xsd"/>
+	<xsd:import namespace="http://xml.insee.fr/schema/individu.html"
+	 			schemaLocation="http://xml.insee.
+fr/schema/individu.xsd"/>
+	
+	<xsd:element name="livret" type="livretDeFamille"/>
+	
+	<xsd:complexType name="livretDeFamille">
+	   <xsd:sequence>
+	        <!-- Il indique les nom, date et lieu de naissance des parents. -->
+	   		<xsd:element name="nomDuPere" ref="individu:NomsEtatCivilType"/>
+	   		<xsd:element name="dateNaissancePere" ref="commun:DateType"/>
+	   		<xsd:element name="lieuNaissancePere" ref="individu:LieuType"/>
+	   		
+	   		<xsd:element name="nomDeLaMere" ref="individu:NomsEtatsCivilType"/>
+	   		<xsd:element name="dateNaissanceMere" ref="commun:DateType"/>
+	   		<xsd:element name="lieuNaissanceMere" ref="individu:LieuType"/>
+	   		
+	   		<!-- Il comporte 
+la date et le lieu de l’acte de mariage des parents. -->
+	   		<xsd:element name="dateMariage" ref="commun:DateType"/>
+	   		<xsd:element name="lieuMariage" ref="individu:LieuType"/>
+	   		
+	   		<!-- Il est ultérieurement complété, selon le cas, par : -->
+			
+			<!-- les dates et lieux des actes de naissance des enfants communs -->
+			<xsd:element name="dateNaissanceEnfantCommun" 
+						 ref="commun:DateType"
+						  minOccurs="0"
+						   maxOccurs="*"/>
+			<xsd:element name="lieuNaissanceEnfantCommun" 
+						 ref="individu:LieuType"
+						  minOccurs="0"
+						   maxOccurs="*"/>
+						   
+			<!-- les dates et lieux de décès des enfants morts avant leur majorité
+ -->
+			<xsd:element name="dateDecesEnfantCommun" 
+						 ref="commun:DateType"
+						  minOccurs="0"
+						   maxOccurs="*"/>
+			<xsd:element name="lieuDecesEnfantCommun" 
+						 ref="individu:LieuType"
+						  minOccurs="0"
+						   maxOccurs="*"/>
+			
+			<!-- les dates et lieux de décès des époux ou des parents-->
+			<xsd:element name="dateDecesPere" 
+						 ref="commun:DateType"
+						  minOccurs="0"
+						   maxOccurs="*"/>
+			<xsd:element name="lieuDecesPere" 
+						 ref="individu:LieuType"
+						  minOccurs="0"
+						   maxOccurs="*"/>
+			<xsd:element name="dateDecesMere" 
+						 ref="commun:DateType"
+						  minOccurs="0"
+						   maxOccurs="*"/>
+			<xsd:element name="lieuDecesMere" 
+						 ref="individu:LieuType"
+						  minOccurs="0"
+						   maxOccurs="*"/>
+	   </xsd:sequence>
+	</xsd:complexType>
+
+</xsd:schema>

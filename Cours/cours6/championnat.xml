@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<championnat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="championnat.xsd">
+  <clubs>
+    <club id="LOSC">
+      <nom>LOSC Lille Metropole</nom>
+      <ville>Lille</ville>
+    </club>
+    <club id="SRFC">
+      <nom>Stade Rennais FC</nom>
+      <ville>Rennes</ville>
+    </club>
+    <club id="OL">
+      <nom>Olympique Lyonnais</nom>
+      <ville>Lyon</ville>
+    </club>
+    <club id="OM">
+      <nom>Olympique de Marseille</nom>
+      <ville>Marseille</ville>
+    </club>
+    <club id="PSG">
+      <nom>Paris Saint-Germain</nom>
+      <ville>Paris</ville>
+    </club>
+    <club id="MHSC">
+      <nom>Montpellier Herault SC</nom>
+      <ville>Montpellier</ville>
+    </club>
+    <club id="ASSE">
+      <nom>AS Saint-Etienne</nom>
+      <ville>Saint Etienne</ville>
+    </club>
+    <club id="GB">
+      <nom>Girondins de Bordeaux</nom>
+      <ville>Bordeaux</ville>
+    </club>
+    <club id="FCL">
+      <nom>FC Lorient</nom>
+      <ville>Lorient</ville>
+    </club>
+    <club id="TFC">
+      <nom>Toulouse FC</nom>
+      <ville>Toulouse</ville>
+    </club>
+    <club id="FCMB">
+      <nom>FC de Sochaux Montbéliard</nom>
+      <ville>Sochaux</ville>
+    </club>
+    <club id="SB">
+      <nom>Stade Brestois 29</nom>
+      <ville>Brest</ville>
+    </club>
+    <club id="OGCN">
+      <nom>OGC Nice</nom>
+      <ville>Nice</ville>
+    </club>
+    <club id="VAFC">
+      <nom>Valenciennes FC</nom>
+      <ville>Valenciennes</ville>
+    </club>
+    <club id="SMC">
+      <nom>SM Caen</nom>
+      <ville>Caen</ville>
+    </club>
+    <club id="ASNL">
+      <nom>AS Nancy Lorraine</nom>
+      <ville>Nancy</ville>
+    </club>
+    <club id="ASM">
+      <nom>AS Monaco FC</nom>
+      <ville>Monaco</ville>
+    </club>
+    <club id="AJA">
+      <nom>AJ Auxerre</nom>
+      <ville>Auxerre</ville>
+    </club>
+    <club id="RCL">
+      <nom>RC Lens</nom>
+      <ville>Lens</ville>
+    </club>
+    <club id="ACAA">
+      <nom>AC Arles Avignon</nom>
+      <ville>Arles</ville>
+    </club>
+  </clubs>
+  <journées>
+    <journée num="26">
+      <date>
+        2011-03-05
+      </date>
+      <rencontre>
+        <clubReceveur>SMC</clubReceveur>
+        <clubInvité>ASSE</clubInvité>
+        <score>1 0</score>
+      </rencontre>
+      <rencontre>
+        <clubReceveur>FCL</clubReceveur>
+        <clubInvité>ASNL</clubInvité>
+        <score>0 0</score>
+      </rencontre>
+      <rencontre>
+        <clubReceveur>MHSC</clubReceveur>
+        <clubInvité>SRFC</clubInvité>
+        <score>0 1</score>
+      </rencontre>
+      <rencontre>
+        <clubReceveur>OGCN</clubReceveur>
+        <clubInvité>RCL</clubInvité>
+        <score>0 0</score>
+      </rencontre>
+      <rencontre>
+        <clubReceveur>TFC</clubReceveur>
+        <clubInvité>FCSM</clubInvité>
+        <score>0 1</score>
+      </rencontre>
+      <rencontre>
+        <clubReceveur>VAFC</clubReceveur>
+        <clubInvité>ASMFC</clubInvité>
+        <score>0 0</score>
+      </rencontre>
+      <rencontre>
+        <clubReceveur>AJA</clubReceveur>
+        <clubInvité>PSG</clubInvité>
+        <score>1 0</score>
+      </rencontre>
+      <rencontre>
+        <clubReceveur>SB</clubReceveur>
+        <clubInvité>GB</clubInvité>
+        <score>1 3</score>
+      </rencontre>
+      <rencontre>
+        <clubReceveur>OL</clubReceveur>
+        <clubInvité>ACAA</clubInvité>
+        <score>5 0</score>
+      </rencontre>
+      <rencontre>
+        <clubReceveur>OM</clubReceveur>
+        <clubInvité>LOSC</clubInvité>
+        <score>1 2</score>
+      </rencontre>
+    </journée>
+    <journée num="27">
+      <date>
+        2011-03-12
+      </date>
+      <rencontre>
+        <clubReceveur>SRFC</clubReceveur>
+        <clubInvité>OM</clubInvité>
+        <score>0 2</score>
+      </rencontre>
+      <rencontre>
+        <clubReceveur>ACAA</clubReceveur>
+        <clubInvité>FCL</clubInvité>
+        <score>3 3</score>
+      </rencontre>
+      <rencontre>
+        <clubReceveur>RCL</clubReceveur>
+        <clubInvité>TFC</clubInvité>
+        <score>0 1</score>
+      </rencontre>
+      <rencontre>
+        <clubReceveur>ASNL</clubReceveur>
+        <clubInvité>SMC</clubInvité>
+        <score>1 0</score>
+      </rencontre>
+      <rencontre>
+        <clubReceveur>ASSE</clubReceveur>
+        <clubInvité>SB</clubInvité>
+        <score>2 0</score>
+      </rencontre>
+      <rencontre>
+        <clubReceveur>FCSM</clubReceveur>
+        <clubInvité>OL</clubInvité>
+        <score>0 2</score>
+      </rencontre>
+      <rencontre>
+        <clubReceveur>GB</clubReceveur>
+        <clubInvité>ASMFC</clubInvité>
+        <score>0 1</score>
+      </rencontre>
+      <rencontre>
+        <clubReceveur>LOSC</clubReceveur>
+        <clubInvité>VAFC</clubInvité>
+        <score>2 1</score>
+      </rencontre>
+      <rencontre>
+        <clubReceveur>PSG</clubReceveur>
+        <clubInvité>MHSC</clubInvité>
+        <score>2 2</score>
+      </rencontre>
+      <rencontre>
+        <clubReceveur>OGCN</clubReceveur>
+        <clubInvité>AJA</clubInvité>
+        <score>1 0</score>
+      </rencontre>
+    </journée>
+  </journées>
+</championnat>

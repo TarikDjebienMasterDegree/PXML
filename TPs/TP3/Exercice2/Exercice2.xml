@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New document created with EditiX at Fri Jan 20 15:50:30 CET 2012 -->
+
+<item>
+	<livre titre="pxml">livre1</livre>
+	<livre titre="bda">livre2</livre>
+	<livre titre="pxml">livre3</livre>
+	<livre titre="clo">livre4</livre>
+</item>
